@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsspdate",
+        "uuid": 6941820,
+        "checksum": "s2w36k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
